@@ -1,8 +1,15 @@
- ![MasterHead](https://www.virtualxcellence.com/wp-content/uploads/2019/11/GCP_benifits-1024x490.png)
-
+![MasterHead](https://www.virtualxcellence.com/wp-content/uploads/2019/11/GCP_benifits-1024x490.png)
 
 <h1 align="center">Hi 👋, I'm Havva Ulusoy</h1>
-<h3 align="center">A passionate Cloud Engineer from Türkiye</h3>
+<h3 align="center">I am trying to improve myself</h3>
+
+- 🌱 I’m currently learning **Linux Foundation Certified System Administrator(LFCS)**
+
+- 🤝 I’m looking for help with **Google Cloud - AWS - SRE - Devops**
+
+- 📫 How to reach me **havvaulusoyy98@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/kapta/Downloads/HavvaUlusoy_CV2023.pdf](file:///C:/Users/kapta/Downloads/HavvaUlusoy_CV2023.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havvaulusoyy&show_icons=true&locale=en&layout=compact" alt="havvaulusoyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havvaulusoyy&" alt="havvaulusoyy" /></p>
+
