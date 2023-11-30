@@ -1,4 +1,4 @@
- [![MasterHead](https://www.virtualxcellence.com/wp-content/uploads/2019/11/GCP_benifits-1024x490.png)
+ ![MasterHead](https://www.virtualxcellence.com/wp-content/uploads/2019/11/GCP_benifits-1024x490.png)
 
 
 <h1 align="center">Hi 👋, I'm Havva Ulusoy</h1>
