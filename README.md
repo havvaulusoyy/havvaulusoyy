@@ -1,11 +1,22 @@
 ![MasterHead](https://www.virtualxcellence.com/wp-content/uploads/2019/11/GCP_benifits-1024x490.png)
 
 <h1 align="center">Hi 👋, I'm Havva Ulusoy</h1>
-<h3 align="center">I am trying to improve myself</h3>
+
+<h3 align="center">
+I discovered the Cloud thanks to my long-term internship program at the Cloud & Messaging Operations unit at Vodafone company. I participated in the Huawei cloud case study to improve myself in this field.
+</h3>
+
+<h3 align="center">
+Besides I continue with online training in this field to learn the terminology and understand the contents of Docker, Kubernetes, Google Cloud, and AWS. To have a deeper knowledge of Kubernetes and Google Cloud applications, I am taking the Linux Foundation Certified System Administrator (LFCS) training given by Mumshad Mannambeth & KodeKloud Training in Udemy. 
+</h3>
+
+<h3 align="center">
+I believe that I will gain competence in this field thanks to this opportunity. As an engineer woman in business life, I want to develop myself and prove myself in the field in which I specialize.
+</h3>
 
 - 🌱 I’m currently learning **Linux Foundation Certified System Administrator(LFCS)**
 
-- 🤝 I’m looking for help with **Google Cloud - AWS - SRE - Devops**
+- 🤝 I’m looking for help with **Google Cloud - AWS - SRE - DevOps**
 
 - 📫 How to reach me **havvaulusoyy98@gmail.com**
 
@@ -22,4 +33,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havvaulusoyy&show_icons=true&locale=en&layout=compact" alt="havvaulusoyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havvaulusoyy&" alt="havvaulusoyy" /></p>
-
